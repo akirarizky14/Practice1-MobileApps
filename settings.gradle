@@ -1,0 +1,5 @@
+include ':Clickbuttons'
+include ':layouttype'
+include ':nosssel'
+include ':app'
+rootProject.name = "Practice1"
